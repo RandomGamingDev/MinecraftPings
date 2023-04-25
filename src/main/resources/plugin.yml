@@ -1,0 +1,5 @@
+name: MinecraftPings
+version: '${project.version}'
+main: me.randomgamingdev.minecraftpings.MinecraftPings
+api-version: 1.19
+description: A plugin that adds Minecraft pings in chat with @[IGN] and the little ding sound.
